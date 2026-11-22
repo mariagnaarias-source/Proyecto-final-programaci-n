@@ -13,4 +13,4 @@ El escenario base calcula un descuento por rango y antigüedad, limitado para qu
 
 ## Entrega
 
-El notebook incluye la nota de IA y resultados reproducibles. El grupo debe completar su propia verificación en la sección 3, preparar el informe de máximo dos páginas con dos tablas o figuras y ensayar la presentación. Los integrantes deben comprender el código y sus resultados.
+El notebook incluye resultados reproducibles y pruebas de funcionamiento. El informe final debe tener máximo dos páginas e incluir al menos dos tablas o figuras. La presentación muestra el problema, la aplicación, los resultados y sus limitaciones.
